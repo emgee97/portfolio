@@ -1,3 +1,5 @@
+import { url } from "inspector";
+
 export const navItems = [
   { name: "About", link: "#about" },
   { name: "Projects", link: "#projects" },
@@ -8,17 +10,17 @@ export const navItems = [
 export const gridItems = [
   {
     id: 1,
-    title: "I prioritize client collaboration, fostering open communication ",
+    title: "I am looking for an apprenticeship where we can bring value to each other, in Lyon, Grenoble or Clermont-Ferrand.",
     description: "",
     className: "lg:col-span-3 md:col-span-6 md:row-span-4 lg:min-h-[60vh]",
     imgClassName: "w-full h-full",
     titleClassName: "justify-end",
-    img: "/b1.svg",
+    img: "/maxime.png",
     spareImg: "",
   },
   {
     id: 2,
-    title: "I'm very flexible with time zone communications",
+    title: "Ready to work on projects from all around the world",
     description: "",
     className: "lg:col-span-2 md:col-span-3 md:row-span-2",
     imgClassName: "",
@@ -49,7 +51,7 @@ export const gridItems = [
 
   {
     id: 5,
-    title: "Currently building a JS Animation library",
+    title: "Currently building a Full Stack React Native app",
     description: "The Inside Scoop",
     className: "md:col-span-3 md:row-span-2",
     imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
@@ -72,95 +74,83 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title: "3D Solar System Planets to Explore",
-    des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
-    img: "/p1.svg",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "/ui.earth.com",
+    title: "My Travel Reviews - Animated Website",
+    des: "Explore my travel reviews with animated slide using HTML, CSS & Javascript.",
+    img: "/p1.png",
+    iconLists: ["/HTML5.svg", "/CSS3.svg", "/Javascript.svg"],
+    link: "/mytravelreviews.maximeguillaumin.com",
   },
   {
     id: 2,
-    title: "Yoom - Video Conferencing App",
-    des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
-    img: "/p2.svg",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-    link: "/ui.yoom.com",
+    title: "Real Estate Dashboard - Full Stack MERN App",
+    des: "Built and deployed a full-stack MERN app with CRUD, auth, and charts using Refine.",
+    img: "/p2.png",
+    iconLists: ["/ts.svg", "/mongodb-icon-1.svg", "/express-js.svg", "/re.svg", "/nodejs-icon.svg", "/socketio.svg"],
+    link: "/estatedashboard.maximeguillaumin.com",
   },
   {
     id: 3,
-    title: "AI Image SaaS - Canva Application",
-    des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
-    img: "/p3.svg",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-    link: "/ui.aiimg.com",
+    title: "My Portfolio - Next.js and Framer Motion",
+    des: "A modern developer portfolio with animations using Next.js. Perfect for showcasing my web development skills.",
+    img: "/p3.png",
+    iconLists: ["/next.svg", "/tail.svg", "/three.svg", "/framer-motion.svg"],
+    link: "/maximeguillaumin.com",
   },
   {
     id: 4,
-    title: "Animated Apple Iphone 3D Website",
-    des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
-    img: "/p4.svg",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "/ui.apple.com",
+    title: "Chat Application - Using React JS, Node and Socket.io",
+    des: "MERN stack chat app with real-time messaging, user auth, and responsive design.",
+    img: "/p4.png",
+    iconLists: ["/mongodb-icon-1.svg", "/express-js.svg", "/re.svg", "/nodejs-icon.svg", "/socketio.svg"],
+    link: "/chatapp.maximeguillaumin.com",
   },
 ];
 
 export const testimonials = [
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Maxime quickly understood our needs and transformed our ideas into a smooth, functional application. What really stood out was his ability to anticipate potential issues and propose smart, creative solutions before they even became problems. Thanks to his responsiveness and professionalism, our project was delivered on time and exceeded expectations.",
+    name: "Benoit Membré",
+    title: "Director of Carat Detailing",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Working with Maxime was an absolute pleasure. He is attentive, proactive, and always comes with valuable insights that improved the final product. He strikes the perfect balance between technical performance and user experience. His dedication and commitment were evident at every stage. I would recommend him to anyone looking for a reliable and talented developer.",
+    name: "Pierre Fournier",
+    title: "Director of Atelier Pierrec Fournier",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
-  {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
-  {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "We collaborated on a complex project that required constant communication between design and development. Maxime was extremely professional, eager to learn, and always willing to adapt to design changes. He not only brought technical expertise but also a genuine interest in enhancing the user experience. His collaborative spirit made the entire process smooth and enjoyable.",
+    name: "Jimmy Rolland",
+    title: "Director of Oronzo Coiffure & Oronzo.store",
   },
 ];
 
 export const companies = [
   {
     id: 1,
-    name: "cloudinary",
-    img: "/cloud.svg",
-    nameImg: "/cloudName.svg",
+    name: "Git",
+    img: "/git.svg",
+    nameImg: "/gitName.png",
   },
   {
     id: 2,
-    name: "appwrite",
-    img: "/app.svg",
-    nameImg: "/appName.svg",
+    name: "VS Studio Code",
+    img: "/visual-studio-code-1.svg",
+    nameImg: "/vscodeName.png",
   },
   {
     id: 3,
-    name: "HOSTINGER",
-    img: "/host.svg",
-    nameImg: "/hostName.svg",
+    name: "Postman",
+    img: "/postman.svg",
+    nameImg: "/postmanName.png",
   },
   {
     id: 4,
-    name: "stream",
-    img: "/s.svg",
-    nameImg: "/streamName.svg",
+    name: "vercel",
+    img: "/vercel.svg",
+    nameImg: "/vercelName.svg",
   },
   {
     id: 5,
@@ -173,29 +163,29 @@ export const companies = [
 export const workExperience = [
   {
     id: 1,
-    title: "Frontend Engineer Intern",
-    desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
+    title: "Software Engineering Training Projects (2024 – Present)",
+    desc: "Currently completing a Software Engineer program (RNCP Level 7, Data Scientest), with hands-on projects in Python, SQL/NoSQL, Git/GitHub, and React.js. Developed full-stack applications combining front-end interfaces with back-end APIs and databases. Applied agile methodologies, version control, and cloud principles (AWS) to deliver scalable solutions. These projects allow me to directly apply my technical knowledge and transition from digital strategy to concrete software development.",
     className: "md:col-span-2",
     thumbnail: "/exp1.svg",
   },
   {
     id: 2,
-    title: "Mobile App Dev - JSM Tech",
-    desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
+    title: "Entrepreneur | Freelance – Agence Colibri (2023 – Present)",
+    desc: "Founded and managed a digital marketing agency focused on lead generation and e-commerce growth. Oversaw technical implementation of tracking scripts, API integrations, and automated reporting systems using JavaScript and Python. Managed €1M in advertising budget across Google and Meta platforms, while also ensuring proper website optimization for conversion. This role developed my problem-solving skills in combining data, code, and business objectives.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp2.svg",
   },
   {
     id: 3,
-    title: "Freelance App Dev Project",
-    desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
+    title: "Digital Project Manager | Consultant | Trainer (2019 – 2025)",
+    desc: "Led over 75 digital projects annually for more than 150 clients, covering topics in digital transformation and innovation. Regularly applied web development fundamentals (HTML, CSS, JavaScript) to implement client solutions and optimize digital platforms. Organized a large-scale innovation event and achieved a +400% increase in project objectives. This experience strengthened my ability to bridge client needs with technical execution and agile project delivery.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp3.svg",
   },
   {
     id: 4,
-    title: "Lead Frontend Developer",
-    desc: "Developed and maintained user-facing features using modern frontend technologies.",
+    title: "Digital Marketing Officer (2018 – 2019)",
+    desc: "Managed SEO/SEA strategies, product catalog updates, and on-site content improvements using CMS platforms and basic front-end editing (HTML, CSS). Designed and optimized landing pages to improve user experience and organic ranking, contributing to a +62% SEO traffic growth within 12 months. Actively collaborated with developers to enhance website functionality and performance, gaining practical exposure to technical problem-solving in web environments.",
     className: "md:col-span-2",
     thumbnail: "/exp4.svg",
   },
@@ -204,14 +194,12 @@ export const workExperience = [
 export const socialMedia = [
   {
     id: 1,
-    img: "/git.svg",
-  },
-  {
-    id: 2,
-    img: "/twit.svg",
+    img: "/github.svg",
+    url: "https://github.com/emgee97",
   },
   {
     id: 3,
     img: "/link.svg",
+    url: "https://www.linkedin.com/in/maxime-guillaumin/",
   },
 ];
