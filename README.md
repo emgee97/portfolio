@@ -79,11 +79,8 @@ Real-time messaging app built with **React, Node.js & Socket.io**, including aut
 
 ## 📫 Let’s Connect
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mguillaumin97@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/maxime-guillaumin](https://www))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maxime-guillaumin)(https://www.linkedin.com/in/maxime-guillaumin0703/)))  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://maximeguillaumin.com)  
 
 ---
-✨ *Always curious. Always building. Always improving.*  
-```
-
-Veux-tu que je pousse ce README encore plus loin avec un **header visuel animé (ASCII banner ou SVG dynamique)** pour donner un vrai effet “wow” quand on arrive sur ton profil GitHub ?
+✨ *Always curious. Always building. Always improving.*
