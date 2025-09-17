@@ -1,9 +1,3 @@
-Super, merci pour toutes ces infos 🙌
-Je vais transformer tout ça en un **README GitHub friendly**, inspiré de ton portfolio : clair, structuré, avec badges et sections bien identifiées.
-
-Voici une première version prête à coller :
-
-```markdown
 # 👋 Hi, I'm Maxime Guillaumin
 
 ### 🚀 Full-Stack Developer | 🌍 Based in France | 🎯 Looking for a Work-Study Program
@@ -36,7 +30,7 @@ I’m currently looking for an **apprenticeship** (Lyon, Grenoble, Clermont-Ferr
 ---
 
 ## 📂 Featured Projects
-### ✈️ [My Travel Reviews](https://projects.maximeguillaumin.com)  
+### ✈️ [My Travel Reviews](https://mytravelreviews.maximeguillaumin.com)  
 Animated website using **HTML, CSS & JavaScript** to showcase my travel reviews with sliding animations.  
 
 ### 🏡 [Real Estate Dashboard](https://projects.maximeguillaumin.com)  
@@ -78,15 +72,15 @@ Real-time messaging app built with **React, Node.js & Socket.io**, including aut
 ---
 
 ## 📊 GitHub Stats
-![Maxime's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaximeGuillaumin&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaximeGuillaumin&layout=compact&theme=tokyonight)  
+![Maxime's GitHub stats](https://github-readme-stats.vercel.app/api?username=emgee97&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emgee97&layout=compact&theme=tokyonight)  
 
 ---
 
 ## 📫 Let’s Connect
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maxime.guillaumin@example.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maxime-guillaumin)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://projects.maximeguillaumin.com)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mguillaumin97@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/maxime-guillaumin](https://www))  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://maximeguillaumin.com)  
 
 ---
 ✨ *Always curious. Always building. Always improving.*  
