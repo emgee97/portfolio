@@ -39,7 +39,7 @@ Full-stack **MERN app** with CRUD, authentication, and interactive charts using 
 ### 🎨 [My Portfolio](https://projects.maximeguillaumin.com)  
 Modern portfolio built with **Next.js & Framer Motion**, featuring smooth animations.  
 
-### 💬 [Chat Application](https://projects.maximeguillaumin.com)  
+### 💬 [Chat Application](https://chatliveapp.maximeguillaumin.com)  
 Real-time messaging app built with **React, Node.js & Socket.io**, including authentication & responsive design.  
 
 ---
