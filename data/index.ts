@@ -200,6 +200,6 @@ export const socialMedia = [
   {
     id: 3,
     img: "/link.svg",
-    url: "https://www.linkedin.com/in/maxime-guillaumin/",
+    url: "https://www.linkedin.com/in/maxime-guillaumin0703/",
   },
 ];
