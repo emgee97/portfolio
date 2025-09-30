@@ -78,7 +78,7 @@ export const projects = [
     des: "Explore my travel reviews with animated slide using HTML, CSS & Javascript.",
     img: "/p1.png",
     iconLists: ["/HTML5.svg", "/CSS3.svg", "/Javascript.svg"],
-    link: "/mytravelreviews.maximeguillaumin.com",
+    link: "https://mytravelreviews.maximeguillaumin.com",
   },
   {
     id: 2,
@@ -86,7 +86,7 @@ export const projects = [
     des: "Built and deployed a full-stack MERN app with CRUD, auth, and charts using Refine.",
     img: "/p2.png",
     iconLists: ["/ts.svg", "/mongodb-icon-1.svg", "/express-js.svg", "/re.svg", "/nodejs-icon.svg", "/socketio.svg"],
-    link: "/estatedashboard.maximeguillaumin.com",
+    link: "#",
   },
   {
     id: 3,
@@ -94,7 +94,7 @@ export const projects = [
     des: "A modern developer portfolio with animations using Next.js. Perfect for showcasing my web development skills.",
     img: "/p3.png",
     iconLists: ["/next.svg", "/tail.svg", "/three.svg", "/framer-motion.svg"],
-    link: "/maximeguillaumin.com",
+    link: "https://maximeguillaumin.com",
   },
   {
     id: 4,
@@ -102,7 +102,7 @@ export const projects = [
     des: "MERN stack chat app with real-time messaging, user auth, and responsive design.",
     img: "/p4.png",
     iconLists: ["/mongodb-icon-1.svg", "/express-js.svg", "/re.svg", "/nodejs-icon.svg", "/socketio.svg"],
-    link: "/chatapp.maximeguillaumin.com",
+    link: "#",
   },
 ];
 
