@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 220 60">
-  <defs>
-    <style>
-      .cls-1 {
-        fill: #fff;
-      }
-    </style>
-  </defs>
-  <!-- VS Code en vectorisé (paths) -->
-  <g>
-    <g id="Layer_1">
-      <path class="cls-1" d="M10 10 L20 50 L30 10 L40 50 L50 10 Z"/> <!-- Faux vecteurs placeholder pour V -->
-      <path class="cls-1" d="M60 10 H80 V50 H60 Z"/> <!-- Faux placeholder pour S -->
-      <path class="cls-1" d="M100 10 H120 V50 H100 Z"/> <!-- Faux placeholder pour C -->
-      <path class="cls-1" d="M130 10 H150 V50 H130 Z"/> <!-- Faux placeholder pour o -->
-      <path class="cls-1" d="M160 10 H180 V50 H160 Z"/> <!-- Faux placeholder pour d -->
-      <path class="cls-1" d="M190 10 H210 V50 H190 Z"/> <!-- Faux placeholder pour e -->
-    </g>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="400" viewBox="0 0 800 200" role="img" aria-label="VS Code">
+  <rect width="100%" height="100%" fill="transparent"/>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+        font-family="Inter, System-ui, Arial, sans-serif" font-size="200" font-weight="700" fill="#ffffff">
+    VS Code
+  </text>
 </svg>
