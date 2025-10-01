@@ -144,7 +144,7 @@ export const companies = [
     id: 3,
     name: "Cloudinary",
     img: "/cloudinary.svg",
-    nameImg: "/cloudinaryName.png",
+    nameImg: "/cloudinaryName.svg",
   },
   {
     id: 4,
