@@ -117,7 +117,7 @@ export const testimonials = [
     quote:
       "Working with Maxime was an absolute pleasure. He is attentive, proactive, and always comes with valuable insights that improved the final product. He strikes the perfect balance between technical performance and user experience. His dedication and commitment were evident at every stage. I would recommend him to anyone looking for a reliable and talented developer.",
     name: "Pierre Fournier",
-    title: "Director of Atelier Pierrec Fournier",
+    title: "Director of Atelier Pierre Fournier",
   },
   {
     quote:
