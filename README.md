@@ -33,10 +33,10 @@ I’m currently looking for an **apprenticeship** (Lyon, Grenoble, Clermont-Ferr
 ### ✈️ [My Travel Reviews](https://mytravelreviews.maximeguillaumin.com)  
 Animated website using **HTML, CSS & JavaScript** to showcase my travel reviews with sliding animations.  
 
-### 🏡 [Real Estate Dashboard](https://projects.maximeguillaumin.com)  
+### 🏡 [Real Estate Dashboard](#)  
 Full-stack **MERN app** with CRUD, authentication, and interactive charts using Refine.  
 
-### 🎨 [My Portfolio](https://projects.maximeguillaumin.com)  
+### 🎨 [My Portfolio](https://maximeguillaumin.com)  
 Modern portfolio built with **Next.js & Framer Motion**, featuring smooth animations.  
 
 ### 💬 [Chat Application](https://chatliveapp.maximeguillaumin.com)  
