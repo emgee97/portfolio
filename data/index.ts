@@ -138,7 +138,7 @@ export const companies = [
     id: 2,
     name: "VS Studio Code",
     img: "/visual-studio-code-1.svg",
-    nameImg: "/vscodeName.png",
+    nameImg: "/vscodeName.svg",
   },
   {
     id: 3,
