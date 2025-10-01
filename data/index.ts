@@ -142,9 +142,9 @@ export const companies = [
   },
   {
     id: 3,
-    name: "Postman",
-    img: "/postman.svg",
-    nameImg: "/postmanName.png",
+    name: "Cloudinary",
+    img: "/cloudinary.svg",
+    nameImg: "/cloudinaryName.png",
   },
   {
     id: 4,
