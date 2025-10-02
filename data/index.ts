@@ -110,20 +110,20 @@ export const testimonials = [
   {
     quote:
       "Maxime quickly understood our needs and transformed our ideas into a smooth, functional application. What really stood out was his ability to anticipate potential issues and propose smart, creative solutions before they even became problems. Thanks to his responsiveness and professionalism, our project was delivered on time and exceeded expectations.",
-    name: "Benoit Membré",
-    title: "Director of Carat Detailing",
+    name: "Benoit M*****",
+    title: "Director of Luxury Car Detailing",
   },
   {
     quote:
       "Working with Maxime was an absolute pleasure. He is attentive, proactive, and always comes with valuable insights that improved the final product. He strikes the perfect balance between technical performance and user experience. His dedication and commitment were evident at every stage. I would recommend him to anyone looking for a reliable and talented developer.",
-    name: "Pierre Fournier",
-    title: "Director of Atelier Pierre Fournier",
+    name: "Pierre F*******",
+    title: "Director of Creative Design Studio",
   },
   {
     quote:
       "We collaborated on a complex project that required constant communication between design and development. Maxime was extremely professional, eager to learn, and always willing to adapt to design changes. He not only brought technical expertise but also a genuine interest in enhancing the user experience. His collaborative spirit made the entire process smooth and enjoyable.",
-    name: "Jimmy Rolland",
-    title: "Director of Oronzo Coiffure & Oronzo.store",
+    name: "Jimmy R******",
+    title: "Director of Hair Care E-Commerce",
   },
 ];
 
