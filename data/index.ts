@@ -85,7 +85,7 @@ export const projects = [
     title: "Real Estate Dashboard - Full Stack MERN App",
     des: "Built and deployed a full-stack MERN app with CRUD, auth, and charts using Refine.",
     img: "/p2.png",
-    iconLists: ["/ts.svg", "/mongodb-icon-1.svg", "/express-js.svg", "/re.svg", "/nodejs-icon.svg", "/socketio.svg"],
+    iconLists: ["/ts.svg", "/mongodb-icon-1.svg", "/express-js.svg", "/re.svg", "/nodejs-icon.svg"],
     link: "#",
   },
   {
