@@ -79,6 +79,7 @@ export const projects = [
     img: "/p1.png",
     iconLists: ["/HTML5.svg", "/CSS3.svg", "/Javascript.svg"],
     link: "https://mytravelreviews.maximeguillaumin.com",
+    pinTitle: "mytravelreviews.maximeguillaumin.com",
   },
   {
     id: 2,
@@ -87,6 +88,7 @@ export const projects = [
     img: "/p2.png",
     iconLists: ["/ts.svg", "/mongodb-icon-1.svg", "/express-js.svg", "/re.svg", "/nodejs-icon.svg"],
     link: "#",
+    pinTitle: "estatedashboard.maximeguillaumin.com",
   },
   {
     id: 3,
@@ -95,6 +97,7 @@ export const projects = [
     img: "/p3.png",
     iconLists: ["/next.svg", "/tail.svg", "/three.svg", "/framer-motion.svg"],
     link: "https://maximeguillaumin.com",
+    pinTitle: "maximeguillaumin.com",
   },
   {
     id: 4,
@@ -103,6 +106,7 @@ export const projects = [
     img: "/p4.png",
     iconLists: ["/mongodb-icon-1.svg", "/express-js.svg", "/re.svg", "/nodejs-icon.svg", "/socketio.svg"],
     link: "#",
+    pinTitle: "chatlive.maximeguillaumin.com",
   },
 ];
 
