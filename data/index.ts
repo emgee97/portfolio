@@ -105,8 +105,8 @@ export const projects = [
     des: "MERN stack chat app with real-time messaging, user auth, and responsive design.",
     img: "/p4.png",
     iconLists: ["/mongodb-icon-1.svg", "/express-js.svg", "/re.svg", "/nodejs-icon.svg", "/socketio.svg"],
-    link: "#",
-    pinTitle: "chatlive.maximeguillaumin.com",
+    link: "https://chatliveapp.maximeguillaumin.com",
+    pinTitle: "chatliveapp.maximeguillaumin.com",
   },
 ];
 
