@@ -61,13 +61,13 @@ Real-time messaging app built with **React, Node.js & Socket.io**, including aut
 
 ## 📢 Testimonials
 > *“Maxime quickly understood our needs and transformed our ideas into a smooth, functional application. His ability to anticipate issues and propose creative solutions made the whole process seamless.”*  
-— Benoit Membré, Director @ Carat Detailing  
+— Benoit M*****, Director of Luxury Car Detailing  
 
 > *“Attentive, proactive, and insightful. Maxime strikes the perfect balance between technical performance and user experience.”*  
-— Pierre Fournier, Director @ Atelier Pierre Fournier  
+— Pierre F*******, Director of Creative Design Studio  
 
 > *“Professional, adaptable, and collaborative. Maxime not only brought technical expertise but also genuine interest in enhancing user experience.”*  
-— Jimmy Rolland, Director @ Oronzo.store  
+— Jimmy R******, Director of Hair Care E-commerce  
 
 ---
 
