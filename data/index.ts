@@ -10,7 +10,7 @@ export const navItems = [
 export const gridItems = [
   {
     id: 1,
-    title: "I am looking for an apprenticeship where we can bring value to each other, in Lyon, Grenoble or Clermont-Ferrand.",
+    title: "I am currently seeking a Junior Full-Stack Developer role or an Apprenticeship opportunity where we can bring mutual value, based in Grenoble or Lyon.",
     description: "",
     className: "lg:col-span-3 md:col-span-6 md:row-span-4 lg:min-h-[60vh]",
     imgClassName: "w-full h-full",
