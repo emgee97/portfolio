@@ -167,29 +167,29 @@ export const companies = [
 export const workExperience = [
   {
     id: 1,
-    title: "Software Engineering Training Projects (2024 – Present)",
-    desc: "Currently completing a Software Engineer program (RNCP Level 7, Data Scientest), with hands-on projects in Python, SQL/NoSQL, Git/GitHub, and React.js. Developed full-stack applications combining front-end interfaces with back-end APIs and databases. Applied agile methodologies, version control, and cloud principles (AWS) to deliver scalable solutions. These projects allow me to directly apply my technical knowledge and transition from digital strategy to concrete software development.",
+    title: "Full-Stack Developer Training & Projects (2024 – Present)",
+    desc: "Currently completing an intensive software engineering program focused on JavaScript, TypeScript, React, and Node.js. I specialize in designing high-performance full-stack API architectures using FastAPI, MongoDB, and PostgreSQL. To ensure professional-grade delivery, I standardize the development lifecycle via Docker and maintain rigorous version control through Git and GitHub. By adhering to 'Clean Code' principles and agile methodologies, I am transitioning my expertise from digital strategy into scalable, concrete software development.",
     className: "md:col-span-2",
     thumbnail: "/exp1.svg",
   },
   {
     id: 2,
-    title: "Entrepreneur | Freelance – Agence Colibri (2023 – Present)",
-    desc: "Founded and managed a digital marketing agency focused on lead generation and e-commerce growth. Oversaw technical implementation of tracking scripts, API integrations, and automated reporting systems using JavaScript and Python. Managed €1M in advertising budget across Google and Meta platforms, while also ensuring proper website optimization for conversion. This role developed my problem-solving skills in combining data, code, and business objectives.",
+    title: "Web Developer & Data Engineer (2023 – 2026)",
+    desc: "During my tenure at Agence Colibri, I specialized in the analysis and exploitation of complex databases using SQL, advanced querying, and segmentation. I was responsible for designing comprehensive data dashboards to provide strategic oversight for budgets exceeding €1M. My role involved developing automation scripts using Python, Ads APIs, and lightweight scraping to significantly enhance SEA and Social Ads performance. Additionally, I integrated third-party APIs to automate marketing data workflows and conducted technical SEO optimizations, specifically focusing on Core Web Vitals, HTML structure, and overall performance.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp2.svg",
   },
   {
     id: 3,
-    title: "Digital Project Manager | Consultant | Trainer (2019 – 2025)",
-    desc: "Led over 75 digital projects annually for more than 150 clients, covering topics in digital transformation and innovation. Regularly applied web development fundamentals (HTML, CSS, JavaScript) to implement client solutions and optimize digital platforms. Organized a large-scale innovation event and achieved a +400% increase in project objectives. This experience strengthened my ability to bridge client needs with technical execution and agile project delivery.",
+    title: "Technical Project Manager & Web Developer (2019 – 2025)",
+    desc: "In this role, I spearheaded the design and deployment of diverse web solutions using PHP, HTML5, CSS3, and JavaScript across platforms such as WordPress, PrestaShop, Magento, and Shopify. I focused on responsive front-end integration using Bootstrap while ensuring rigorous performance optimization. I provided technical leadership for over 150 projects annually, managing everything from the drafting of technical specifications to vendor coordination and QA validation. My responsibilities also included driving continuous improvement through technical SEO audits and managing both corrective and evolutionary maintenance for various e-commerce platforms.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp3.svg",
   },
   {
     id: 4,
-    title: "Digital Marketing Officer (2018 – 2019)",
-    desc: "Managed SEO/SEA strategies, product catalog updates, and on-site content improvements using CMS platforms and basic front-end editing (HTML, CSS). Designed and optimized landing pages to improve user experience and organic ranking, contributing to a +62% SEO traffic growth within 12 months. Actively collaborated with developers to enhance website functionality and performance, gaining practical exposure to technical problem-solving in web environments.",
+    title: "Front-End Developer & Technical SEO (2018 – 2019)",
+    desc: "During my apprenticeship, I executed a technical optimization of the website's architecture that resulted in a 62% increase in organic traffic. I focused on enhancing web performance and significantly reducing page load times while conducting UI/UX iterations based on a Test & Learn approach. My responsibilities included debugging and driving the continuous improvement of the front-end to ensure a seamless user experience. Through these technical initiatives, I directly contributed to the company’s growth and the achievement of €1M in revenue.",
     className: "md:col-span-2",
     thumbnail: "/exp4.svg",
   },
