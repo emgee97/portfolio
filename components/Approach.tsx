@@ -13,11 +13,11 @@ const Approach = () => {
       <div className="my-20 flex flex-col lg:flex-row items-center justify-center w-full gap-4">
         {/* add des prop */}
         <Card
-          title="Planning & Strategy"
-          icon={<AceternityIcon order="Phase 1" />}
-          des="We’ll start by defining the project’s goals, target users, and
-          core functionalities. Together, we’ll outline the architecture, workflows,
-          and technical requirements to build a clear roadmap."
+          title="Secure Planning & Architecture"
+          icon={<AceternityIcon order="Dev" />}
+          des="We begin by defining goals and functionalities through a security lens. 
+          Beyond the roadmap, we perform Threat Modeling and risk assessments to identify 
+          vulnerabilities early. This ensures the architecture is secure by design, minimizing future rework."
         >
           <CanvasRevealEffect
             animationSpeed={5.1}
@@ -26,11 +26,11 @@ const Approach = () => {
           />
         </Card>
         <Card
-          title="Development & Progress Update"
-          icon={<AceternityIcon order="Phase 2" />}
-          des="With the plan in place, I move into development. From setting up the
-          backend to crafting the frontend experience, I keep you regularly updated
-          so you can follow the project’s evolution step by step."
+          title="Secure Development & Continuous Integration"
+          icon={<AceternityIcon order="Sec" />}
+          des="As I move into development, security is integrated into the code itself. 
+          I use SAST (Static Analysis) and dependency scanning to catch issues in real-time. 
+          You’ll receive regular updates not just on features, but on the health and compliance of the codebase as it evolves."
         >
           <CanvasRevealEffect
             animationSpeed={3}
@@ -48,11 +48,11 @@ const Approach = () => {
           {/* <div className="absolute inset-0 [mask-image:radial-gradient(400px_at_center,white,transparent)] bg-black/50 dark:bg-black/90" /> */}
         </Card>
         <Card
-          title="Development & Launch"
-          icon={<AceternityIcon order="Phase 3" />}
-          des="Once the core features are validated, I integrate, test, and optimize
-          the application. The final step ensures everything is stable, efficient, and
-          ready for deployment."
+          title="Automated Testing & Continuous Deployment"
+          icon={<AceternityIcon order="Ops" />}
+          des="Before launch, the application undergoes rigorous automated security testing (DAST) 
+          and performance optimization. We validate that the CI/CD pipeline is hardened and that 
+          the infrastructure is managed as code (IaC), ensuring a stable, efficient, and resilient deployment."
         >
           <CanvasRevealEffect
             animationSpeed={3}
