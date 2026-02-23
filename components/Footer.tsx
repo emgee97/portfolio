@@ -1,12 +1,16 @@
+"use client";
+
 import { FaLocationArrow } from "react-icons/fa6";
 
 import { socialMedia } from "@/data";
 import MagicButton from "./MagicButton";
+import { useLanguage } from "@/context/LanguageContext";
 
 const Footer = () => {
+  const { t } = useLanguage();
+
   return (
     <footer className="w-full pt-20 pb-10" id="contact">
-      {/* background grid */}
       <div className="w-full absolute left-0 -bottom-72 min-h-96">
         <img
           src="/footer-grid.svg"
@@ -17,14 +21,14 @@ const Footer = () => {
 
       <div className="flex flex-col items-center">
         <h1 className="heading lg:max-w-[45vw]">
-          What are we waiting for to work <span className="text-purple">together</span> ?
+          {t.footer.heading1} <span className="text-purple">{t.footer.heading2}</span> ?
         </h1>
         <p className="text-white-200 md:mt-10 my-5 text-center">
-          Motivated, adaptable, and eager to make an impact from day one.
+          {t.footer.subtitle}
         </p>
         <a href="mailto:mguillaumin97@gmail.com">
           <MagicButton
-            title="Let's get in touch"
+            title={t.footer.cta}
             icon={<FaLocationArrow />}
             position="right"
           />
@@ -32,7 +36,7 @@ const Footer = () => {
       </div>
       <div className="flex mt-16 md:flex-row flex-col justify-between items-center">
         <p className="md:text-base text-sm md:font-normal font-light">
-          Copyright © 2025 Maxime Guillaumin
+          {t.footer.copyright}
         </p>
 
         <div className="flex items-center md:gap-3 gap-6">

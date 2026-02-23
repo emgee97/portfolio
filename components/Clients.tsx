@@ -2,24 +2,26 @@
 
 import React from "react";
 
-import { companies, testimonials } from "@/data";
+import { companies } from "@/data";
 import { InfiniteMovingCards } from "./ui/InfiniteCards";
+import { useLanguage } from "@/context/LanguageContext";
 
 const Clients = () => {
+  const { t } = useLanguage();
+
   return (
     <section id="testimonials" className="py-20">
       <h1 className="heading">
-        Kind words from
-        <span className="text-purple"> satisfied clients</span>
+        {t.clients.heading1}
+        <span className="text-purple"> {t.clients.heading2}</span>
       </h1>
 
       <div className="flex flex-col items-center max-lg:mt-10">
         <div
-          // remove bg-white dark:bg-black dark:bg-grid-white/[0.05], h-[40rem] to 30rem , md:h-[30rem] are for the responsive design
           className="h-[50vh] md:h-[30rem] rounded-md flex flex-col antialiased  items-center justify-center relative overflow-hidden"
         >
           <InfiniteMovingCards
-            items={testimonials}
+            items={t.clients.testimonials}
             direction="right"
             speed="slow"
           />

@@ -1,9 +1,14 @@
+"use client";
+
 import { FaLocationArrow } from "react-icons/fa6";
 import MagicButton from "./MagicButton";
 import { Spotlight } from "./ui/Spotlight";
 import { TextGenerateEffect } from "./ui/TextGenerateEffect";
+import { useLanguage } from "@/context/LanguageContext";
 
 const Hero = () => {
+  const { t, lang } = useLanguage();
+
   return (
     <div className="pb-20 pt-36">
       <div>
@@ -31,15 +36,16 @@ const Hero = () => {
       <div className="flex justify-center relative my-20 z-10">
         <div className="max-w-[89vw] md:max-w-2xl lg:max-w-[60vw] flex flex-col items-center justify-center">
           <TextGenerateEffect
-            words="Writing Code That Drives Real Change."
+            key={lang}
+            words={t.hero.headline}
             className="text-center text-[40px] md:text-5xl lg:text-6xl"
           />
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Hi! I&apos;m Maxime, a Full-Stack Developer based in Grenoble, France.
+            {t.hero.subtitle}
           </p>
           <a href="/CV_MG.pdf" download>
             <MagicButton
-              title="Download my CV"
+              title={t.hero.downloadCV}
               icon={<FaLocationArrow />}
               position="right"
             />
