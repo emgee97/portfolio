@@ -6,14 +6,14 @@ export const en = {
     { name: "Contact", link: "#contact" },
   ],
   hero: {
-    headline: "Writing Code That Drives Real Change.",
+    headline: "Develop solutions that make sense.",
     subtitle: "Hi! I'm Maxime, a Full-Stack Developer based in Grenoble, France.",
     downloadCV: "Download my CV",
   },
   gridItems: [
     {
       id: 1,
-      title: "I am currently seeking a Junior Full-Stack Developer role or an Apprenticeship opportunity where we can bring mutual value, based in Grenoble or Lyon.",
+      title: "Open to Junior Full-Stack Developer roles and Apprenticeships in the Grenoble / Lyon area, where we can grow and create impact together.",
       description: "",
     },
     {

@@ -8,14 +8,14 @@ export const fr: Translations = {
     { name: "Contact", link: "#contact" },
   ],
   hero: {
-    headline: "Écrire du Code qui Crée un Vrai Changement.",
+    headline: "Développer des solutions qui ont du sens.",
     subtitle: "Bonjour ! Je suis Maxime, développeur Full-Stack basé à Grenoble, France.",
     downloadCV: "Télécharger mon CV",
   },
   gridItems: [
     {
       id: 1,
-      title: "Je recherche actuellement un poste de développeur Full-Stack junior ou une opportunité d'alternance où nous pourrons créer une valeur mutuelle, basé à Grenoble ou Lyon.",
+      title: "Ouvert aux postes de développeur junior full-stack et d'alternance dans la région de Grenoble / Lyon, où nous pouvons grandir et créer un impact ensemble.",
       description: "",
     },
     {
@@ -51,7 +51,7 @@ export const fr: Translations = {
     items: [
       {
         id: 1,
-        title: "Mes Avis de Voyage - Site Animé",
+        title: "Review de mes Voyages - Site Animé",
         des: "Découvrez mes avis de voyage avec des slides animées en HTML, CSS & Javascript.",
       },
       {
