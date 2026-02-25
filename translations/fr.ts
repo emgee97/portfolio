@@ -142,7 +142,7 @@ export const fr: Translations = {
   footer: {
     heading1: "Qu'attendons-nous pour travailler",
     heading2: "ensemble",
-    subtitle: "Motivé, adaptable et prêt à créer de la valeur dès le premier jour.",
+    subtitle: "Motivé, curieux et prêt à créer de la valeur dès le premier jour.",
     cta: "Prenons contact",
     copyright: "Tous droits réservés © 2025 Maxime Guillaumin",
   },

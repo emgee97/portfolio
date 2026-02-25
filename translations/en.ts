@@ -140,7 +140,7 @@ export const en = {
   footer: {
     heading1: "What are we waiting for to work",
     heading2: "together",
-    subtitle: "Motivated, adaptable, and eager to make an impact from day one.",
+    subtitle: "Motivated, curious, and eager to make an impact from day one.",
     cta: "Let's get in touch",
     copyright: "Copyright © 2025 Maxime Guillaumin",
   },
