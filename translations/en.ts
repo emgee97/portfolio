@@ -67,6 +67,16 @@ export const en = {
         title: "Chat Application - Using React JS, Node and Socket.io",
         des: "MERN stack chat app with real-time messaging, user auth, and responsive design.",
       },
+      {
+        id: 5,
+        title: "Job Tracker - Job Application Tracker",
+        des: "Track job applications on a drag-and-drop Kanban board with search analytics and interview follow-up reminders, powered by Supabase.",
+      },
+      {
+        id: 6,
+        title: "Boox - Community Book Boxes",
+        des: "Mobile app to find nearby free little libraries, add books and manage your collection, with an interactive map and points to earn.",
+      },
     ],
   },
   clients: {

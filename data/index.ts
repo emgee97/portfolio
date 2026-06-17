@@ -54,6 +54,20 @@ export const gridItemsStructure = [
 
 export const projectsStructure = [
   {
+    id: 5,
+    img: "/p5.png",
+    iconLists: ["/HTML5.svg", "/CSS3.svg", "/Javascript.svg", "/supabase.svg", "/chartjs.svg"],
+    link: "https://job-tracker-alpha-hazel.vercel.app/",
+    pinTitle: "job-tracker-alpha-hazel.vercel.app",
+  },
+  {
+    id: 6,
+    img: "/p6.png",
+    iconLists: ["/re.svg", "/ts.svg", "/expo.svg", "/supabase.svg"],
+    link: "#",
+    pinTitle: "Boox - Application mobile",
+  },
+  {
     id: 1,
     img: "/p1.png",
     iconLists: ["/HTML5.svg", "/CSS3.svg", "/Javascript.svg"],

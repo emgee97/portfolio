@@ -69,6 +69,16 @@ export const fr: Translations = {
         title: "Application de Chat - React JS, Node et Socket.io",
         des: "App de chat MERN avec messagerie temps réel, authentification et design responsive.",
       },
+      {
+        id: 5,
+        title: "Job Tracker - Suivi de Candidatures",
+        des: "Suivez vos candidatures sur un tableau Kanban avec stats de recherche d'emploi et relances d'entretiens, propulsé par Supabase.",
+      },
+      {
+        id: 6,
+        title: "Boox - Boîtes à Livres Communautaires",
+        des: "App mobile pour trouver les boîtes à livres autour de soi, ajouter des livres et gérer sa collection, avec carte interactive et points à gagner.",
+      },
     ],
   },
   clients: {
